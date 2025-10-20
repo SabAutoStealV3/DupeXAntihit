@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/IsZlwuHD/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SabAutoStealV3/Kupal-/refs/heads/main/Bossing", true))()
